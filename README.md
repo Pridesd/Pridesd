@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pridesd
 - 👀 I’m interested in Hiking🧗‍ Weightlifting🏋️‍, Environmental pollution🌍
-- 🌱 I’m currently learning C, HTML, CSS, Python
+- 🌱 I’m currently learning C, JS, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me http://www.intagram.com/pride_sd
 
