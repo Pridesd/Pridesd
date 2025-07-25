@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @Pridesd
-- 👀 I’m interested in Hiking🧗‍ Weightlifting🏋️‍, Environmental pollution🌍
-- 🌱 I’m currently learning C, JS, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://www.intagram.com/pride_sd
-- my notion = https://www.notion.so/62285a3314d641bba279664e95f7ac4b
-<!---
-Pridesd/Pridesd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pridesd)](https://github.com/Pridesd/github-readme-stats)
+달리기를 좋아합니다. 
+I love running.
+
+시각장애인 가이드러너를 하고 있습니다.
+I am a guide runner for visually impaired people.
+
+시각장애인이 시간적, 공간적 제약 없이 뛸 수 있도록 [Guiderun Project](https://guiderun.org/) 서비스를 제작, 운영하고 있습니다. 
+I created and am operating the Guiderun Project service so that visually impaired people can run without temporal and spatial constraints.
+
+그래서 접근성에 관심이 많습니다. 
+Therefore, I am very interested in accessibility.
+
+또, 시각적 인터렉션에 관심이 많습니다. 
+Also, I am very interested in visual interaction.
+
+힘듦은 있어도 불가능은 없다고 생각합니다.
+I believe nothing is impossible, though it may be difficult.
+
+새로운 사람과의 소통을 좋아합니다. 
+I love connecting with new people.
+
+햄버거를 좋아합니다.
+I love Hamburger.
