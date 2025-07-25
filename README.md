@@ -6,7 +6,7 @@ I love running.
 <br />
 I am a guide runner for visually impaired people.
 
-시각장애인이 시간적, 공간적 제약 없이 뛸 수 있도록 [Guiderun Project](https://guiderun.org/) 서비스를 제작, 운영하고 있습니다. 
+시각장애인이 시간적, 공간적 제약 없이 뛸 수 있도록 [Guiderun Project](https://guiderun.org/) 서비스를 제작, 운영하고 있습니다. 
 <br />
 I created and am operating the Guiderun Project service so that visually impaired people can run without temporal and spatial constraints.
 
