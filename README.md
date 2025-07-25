@@ -29,3 +29,5 @@ I love connecting with new people.
 햄버거를 좋아합니다.
 <br />
 I love Hamburger.
+
+[Blog](https://amadaclub.tistory.com/) [SNS](https://instagram.com/pride_sd)
